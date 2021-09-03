@@ -1,0 +1,47 @@
+
+
+
+body {
+    background-image: linear-gradient(to right, #DECBA4, #3E5151);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100vh;
+    margin: 0;
+    
+}
+
+.results {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.result {
+    background-color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 0.35em;
+    margin: 50px;
+    height: 400px;
+    width: auto;
+}
+
+.result img {
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+}   
+
+.buttons {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    
+}
+
+
+
